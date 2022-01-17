@@ -1,6 +1,6 @@
 # Bem vindo ao meu GitHub! 🌴
 
-- Desenvolvedor Java ☕
+- Desenvolvedor Java - Udemy ☕
 - Estudante de Administração - UFBA.
 - Ilustrador.
 
